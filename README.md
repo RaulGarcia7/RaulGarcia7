@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello there! I´m Raúl García
 
-<!--
-**RaulGarcia7/RaulGarcia7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Fullstack Developer** and **Game Developer** passionate about creating applications and games that provide unique experiences. I love learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- Enhacing my programming skills and integrating into projects
+- Bringing my ideas to life in applications & videogames!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies and Tools
+- **Languages:** JavaScript, TypeScript, Python, C#
+- **Frontend:** React, Angular, HTML, CSS
+- **Backend:** Node.js, Express, Django
+- **Databases:** MongoDB, MySQL
+- **Game Development Tools:** Unity, Unreal Engine
+- **Version Control:** Git, GitHub
+
+## 📫 How to reach me
+- Email: raul.garcig07@gmail.com
+- LinkedIn: [Raul Garcia Garcia](https://www.linkedin.com/in/raul-garcia-garcia-rgg/)
+
+Thanks for visiting my profile! If you have any questions or just want to say hi, feel free to contact me.
